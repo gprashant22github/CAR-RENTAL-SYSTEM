@@ -1,0 +1,19 @@
+[
+	{
+		"car" : 
+		{
+			"carNumber" : "up2023",
+			"model" : "h1",
+			"name" : "honda",
+			"rentPrice" : "250"
+		},
+		"rentEndDate" : "20-12-2024",
+		"rentStartDate" : "20-12-2023",
+		"renter" : 
+		{
+			"address" : "hellopur",
+			"name" : "hello",
+			"phone" : "8974563210"
+		}
+	}
+]

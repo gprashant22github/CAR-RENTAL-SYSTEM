@@ -1,0 +1,14 @@
+[
+	{
+		"carNumber" : "mp2033",
+		"model" : "h1",
+		"name" : "honda",
+		"rentPrice" : "250"
+	},
+	{
+		"carNumber" : "up2022",
+		"model" : "h2",
+		"name" : "hero",
+		"rentPrice" : "200"
+	}
+]
