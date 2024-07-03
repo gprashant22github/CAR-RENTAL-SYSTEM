@@ -1,6 +1,4 @@
-Certainly! Here’s the complete `README.md` content for your Car Rental System project, formatted and ready for you to copy and paste directly into your GitHub repository:
 
-```markdown
 # Car Rental System
 
 ## Overview
