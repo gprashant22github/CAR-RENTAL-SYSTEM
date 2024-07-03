@@ -39,7 +39,7 @@ To get started with the Car Rental System, follow these steps:
    Use a C++ compiler to compile the `main.cpp` file. You can use `g++` or any other C++ compiler:
 
    ```bash
-   g++ -o car_rental_system main.cpp
+    g++ main.cpp jsoncpp.cpp -o CarRentalSystem
    ```
 
 ## Usage
@@ -47,7 +47,7 @@ To get started with the Car Rental System, follow these steps:
 To run the Car Rental System, execute the compiled binary:
 
 ```bash
-./car_rental_system
+./CarRentalSystem
 ```
 
 Follow the on-screen menu to navigate through the different options.
