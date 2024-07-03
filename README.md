@@ -27,7 +27,7 @@ To get started with the Car Rental System, follow these steps:
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd car-rental-system
+   cd CAR-RENTAL-SYSTEM
    ```
 
 3. **Install Dependencies**
